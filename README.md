@@ -1,2 +1,2 @@
 # Digital-Clock
- I developed this Digital Clock with nice CSS ,Html and Js
+ I developed this Digital Clock which looks  nice with  nice CSS ,Html and Js
